@@ -219,7 +219,6 @@
 
 
 #We created a program where the user had to guess the number 5. If he guessed, the program would stop If he could not guess, the program would continue reading
-
 # num = 5
 
 # while True:
@@ -263,23 +262,26 @@
 
 #generate odd numbers from 50 to 100 inclusive
 
-# for num in range(51,101,2):
-#     print(num)
+#for num in range(51,101,2):
+ #    print(num)
 
     #if the number is greater than 75 add it to the sum
  
-   # if num > 75:
-    #     sum += num
+#     if num > 75:
+ #        sum += num
 
 #print the value of the sum variable
 
-# print(" the sum of odd numbers greater than 75 is", sum)# Prompt the user for a number
+#print(" the sum of odd numbers greater than 75 is", sum)
 
 
 
 
 
 
+
+
+# Prompt the user for a number
 
 
 # num = int(input("Enter a number: "))
