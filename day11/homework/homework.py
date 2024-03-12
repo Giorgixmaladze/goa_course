@@ -51,14 +51,13 @@
 
 # authorised_password = "giorgi123"
 
-# password = (input("Enter your password:"))
-# while password != authorised_password:
-#     authorised_password += password
-#     password = input("Enter your password:")
+
+# while True:
+#     password = (input("Enter your password:"))
 #     if  password == authorised_password:
 #         break
 #     else:
-#         continue
+#         print("try again ")
 
 
 
@@ -221,16 +220,15 @@
 
 #We created a program where the user had to guess the number 5. If he guessed, the program would stop If he could not guess, the program would continue reading
 
-
 # num = 5
-# guessed_number = int(input("Guess the number:"))
 
-# if guessed_number == num:
-#     print("You guessed it")
-# else:
+# while True:
 #     guessed_number = int(input("Guess the number:"))
-
-
+#     if guessed_number == num:
+#         print("You guessed it")
+#         break
+#     else:
+#         print("Try again")
 
 
 
