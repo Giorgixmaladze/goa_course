@@ -262,7 +262,7 @@
 
 #generate odd numbers from 50 to 100 inclusive
 
-#for num in range(51,101,2):
+#for num in range(5,101,2):
  #    print(num)
 
     #if the number is greater than 75 add it to the sum
@@ -273,8 +273,6 @@
 #print the value of the sum variable
 
 #print(" the sum of odd numbers greater than 75 is", sum)
-
-
 
 
 
