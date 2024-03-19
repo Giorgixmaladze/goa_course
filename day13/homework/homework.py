@@ -97,25 +97,20 @@
 
 
 
-#მომხმარებელს ვთხოვთ რომ შემოიტანოს რიცხვი
 
-# num = int(input("Enter the number:"))
 
 
 
 
 #თუ შეყვანილი რიცხვი იქნება 1დან 10ის ჩათვლით მაშინ ვუთხრათ რომ გამოვიცანით
 
-# while True:
-#     if num >= 1 and num <= 10:
-#         print("You guessed it")
-#         break
-   
 
-#ხოლო თუ არ არის შეყვანილი რიცხვი 1 დან 10 ის ჩათვლით დიაპაზონში მომხმარებელს ვკითხოთ იქამდე სანამ არ შეიყვანს სწორ რიცხვს 
+# while True:
+#     num = int(input("Enter the number:"))
     
-    # else:
-    #     num = int(input("Enter the number:"))
+#     if num >=1 and num <=10:
+#         print("You guessed it")
+   
 
 
 
