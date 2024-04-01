@@ -35,33 +35,6 @@
 
 
 
-#თუ შემოტანილი რიცხვები არის ლუწი ვეუბნებით მომხმარებელს რომ ეს რიცხვი ლუწია ხოლო თუ კენტია ვამბობთ რომ რიცხვი არის
-# if numbers[0] % 2 == 0:
-#     print("First number is even")
-# else:
-#     print("the first number is odd")
-
-# if numbers[1] % 2 == 0:
-#     print("Second number is even")
-# else:
-#     print("the Second number is odd")
-
-
-# if numbers[2] % 2 == 0:
-#     print("Third number is even")
-# else:
-#     print("The third number is odd")
-
-# if numbers[3] % 2 == 0:
-#     print("Fourth number is even")
-# else:
-#     print("The Fourth number is odd")
-# if numbers[4] % 2 == 0:
-#     print("Fifth number is even")
-# else:
-#     print("The fifth number is odd")
-
-
 
 
 numbers = []
