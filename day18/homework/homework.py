@@ -105,9 +105,9 @@
 # შევიტანეთ სიაში ლუწი რიცხვები და გავუწერეთ თიოთოეულ რიცხვს შესაბამისი ინდექსები
 # for i in range(50, 101):
 #     if i % 2 == 0:
-#         even_numbers_with_indices.append("{} - {}".format(i, i - 50))
+#         even_numbers_with_indexes.append("{} - {}".format(i, i - 50))
 
 
 
 # გამოვიტანეთ ეს ყველაფერი print ფუნქციის საშუალებით
-# print(even_numbers_with_indices)
+# print(even_numbers_with_indexes)
