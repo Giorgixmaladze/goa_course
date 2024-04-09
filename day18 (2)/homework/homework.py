@@ -134,19 +134,21 @@
 
 
 
+def make_duplicates(input_list):
+    duplicates = []
+    for num in input_list:
+        if input_list.count(num) > 1 and num not in duplicates:
+            duplicates.append(num)
+    return duplicates
 
 
+input_list = [1, 2, 3, 4, 5, 2, 3, 4, 2, 3, 5]
+duplicates = make_duplicates(input_list)
+print(" initial_list:", input_list)
+print("Duplicates:", duplicates)
 
+    
 
-def duplicated_list(numbers):
-    duplicated_list = numbers[:]
-    return duplicated_list
-
-numbers = [1,8,9,7,6]
-duplicated_list = duplicated_list(numbers)
-
-print(numbers)
-print(duplicated_list)
 
 
 
