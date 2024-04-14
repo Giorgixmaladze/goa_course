@@ -18,3 +18,12 @@
 #     print("you are",age,"years old")
 
 # age_func(30)
+
+
+
+
+
+name = input("enter your name:")
+surname = input("Enter your surname:")
+
+print("my name is", name,"my surname is", surname)
