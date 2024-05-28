@@ -22,13 +22,22 @@
 
 
 
-
 # def my_filter(input_list,char_to_remove):
-#     return[char for char in input_list if char != char_to_remove]
+#     new_list = []
+    
+#     for char in input_list:
+#         if char != char_to_remove:
+#             new_list.append(char)
+#     return new_list
+
 
 # input_list = ["g","c","v","u"]
-# char_toremove = "v"
-# edited_list = 
+# char_to_remove = "v"
+
+
+# print(my_filter(input_list,char_to_remove))
+
+
 
 
 
@@ -51,4 +60,21 @@
 
 
 # print(sum_of_odd_numbers([1,2,3,4,5,6,7,8,9,10]))
+
+
+
+
+# def sum_of_positive_numbers(numbers):
+#     sum = 0
+#     for i in numbers:
+#         if i > 0:
+#             sum = sum + i
+#     return sum
+
+
+
+# numbers = [1,-2,-1,5,8,-9]
+# print(sum_of_positive_numbers(numbers))
+
+
 
