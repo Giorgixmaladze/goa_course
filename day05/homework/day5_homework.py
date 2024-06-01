@@ -148,3 +148,9 @@ print("after discount",sixth_book_name,"price is",after_sixth_book_discount_pric
       eighth_book_name,"price is", after_eighth_book_discount_price,
       ninth_book_name,"price is", after_ninth_book_discount_price,
       tenth_book_name,"price is", after_tenth_book_discount_price)
+
+
+
+
+    
+
