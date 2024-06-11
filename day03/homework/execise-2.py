@@ -10,3 +10,8 @@ second_sister_name = "Salome"
 second_sister_surname = "Khmaladze"
 
 print(my_name , my_surname , mum_name , mum_surname , dad_name , dad_surname , sister_name , sister_surname , second_sister_name , second_sister_surname)
+
+
+
+
+
