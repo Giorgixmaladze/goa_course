@@ -13,18 +13,25 @@
 
 
 
-student_results = {
-    'student_1': 20,
-    'student_2' : 34,
-    'student_3' : 25,
-    'student_4' :40
-}
+# student_results = {
+#     'student_1': 20,
+#     'student_2' : 34,
+#     'student_3' : 25,
+#     'student_4' :40
+# }
 
 
-result = 0
-for value in student_results.values():
+# result = 0
+# for value in student_results.values():
    
-    if isinstance(value, int):
-        result += value
+#     if isinstance(value, int):
+#         result += value
 
-print(result)
+# print(result)
+
+
+
+
+
+
+
